@@ -35,30 +35,30 @@ An App that helps tackle the inadequate access to transportation in remote areas
 
 ### Welcome Page
 
-![Welcome Page](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/TransPus-screens/Splash-screen.png "Welcome Page")
+![Welcome Page](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Splash-screen.png "Welcome Page")
 
 ### Authentication Pages ( Login and Register )
 
-![Order ride](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/iPhone-11-Pro/X-1.png "Order ride")
+![Order ride](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/iPhone-11-Pro/X-1.png "Order ride")
 
-![Sign Up Page](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/iPhone-11-Pro/X-4.png "Sign Up Page")
+![Sign Up Page](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/iPhone-11-Pro/X-4.png "Sign Up Page")
 
 ### Alert Page
 
-![Alert Page](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/iPhone-11-Pro/X-3.png "Alert Page")
+![Alert Page](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/iPhone-11-Pro/X-3.png "Alert Page")
 
 ### Choose Location Page
 
-![Choose Location Page](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/TransPus-screens/Choose-location.png "Choose Location Page")
+![Choose Location Page](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Choose-location.png "Choose Location Page")
 
 ### Confirm-order Page
 
-![Confirm-order](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/TransPus-screens/Confirm-order.png "Confirm-order")
+![Confirm-order](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Confirm-order.png "Confirm-order")
 
 ### Select-Car Page
 
-![Select-Car](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/TransPus-screens/Select-Car.png "Select-Car")
+![Select-Car](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Select-Car.png "Select-Car")
 
 ### Select-Tricycle Page
 
-![Select-Tricycle](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/TransPus-screens/Select-Tricycle.png "Select-Tricycle")
+![Select-Tricycle](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Select-Tricycle.png "Select-Tricycle")
