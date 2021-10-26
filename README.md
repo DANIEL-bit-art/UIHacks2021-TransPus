@@ -35,46 +35,46 @@ An App that helps tackle the inadequate access to transportation in remote areas
 
 ### Welcome Page
 
-<img src="https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Splash-screen.png" width="450" height="250" />
+<img src="https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Splash-screen.png" width="700" height="450" />
 
 <!-- ![Welcome Page](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Splash-screen.png "Welcome Page") -->
 
 ### Authentication Pages ( Login and Register )
 
-<img src="https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/iPhone-11-Pro/X-1.png" width="450" height="250" />
+<img src="https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/iPhone-11-Pro/X-1.png" width="700" height="450" />
 
 <!-- ![Order ride](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/iPhone-11-Pro/X-1.png "Order ride") -->
 
-<img src="https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/iPhone-11-Pro/X-4.png" width="450" height="250" />
+<img src="https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/iPhone-11-Pro/X-4.png" width="700" height="450" />
 
 <!-- ![Sign Up Page](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/iPhone-11-Pro/X-4.png "Sign Up Page") -->
 
 ### Alert Page
 
-<img src="https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/iPhone-11-Pro/X-3.png" width="450" height="250" />
+<img src="https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/iPhone-11-Pro/X-3.png" width="700" height="450" />
 
 <!-- ![Alert Page](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/iPhone-11-Pro/X-3.png "Alert Page") -->
 
 ### Choose Location Page
 
-<img src="https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Choose-location.png" width="450" height="250" />
+<img src="https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Choose-location.png" width="700" height="450" />
 
 <!-- ![Choose Location Page](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Choose-location.png "Choose Location Page") -->
 
 ### Confirm-order Page
 
-<img src="https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Confirm-order.png" width="450" height="250" />
+<img src="https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Confirm-order.png" width="700" height="450" />
 
 <!-- ![Confirm-order](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Confirm-order.png "Confirm-order") -->
 
 ### Select-Car Page
 
-<img src="https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Select-Car.png" width="450" height="250" />
+<img src="https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Select-Car.png" width="700" height="450" />
 
 <!-- ![Select-Car](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Select-Car.png "Select-Car") -->
 
 ### Select-Tricycle Page
 
-<img src="https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Select-Tricycle.png" width="450" height="250" />
+<img src="https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Select-Tricycle.png" width="700" height="450" />
 
 <!-- ![Select-Tricycle](https://github.com/DANIEL-bit-art/UIHacks2021-TransPus/blob/main/TransPus-screens/Select-Tricycle.png "Select-Tricycle") -->
